@@ -10,4 +10,7 @@
     3. Factory method
     4. Prototype
     5. Singleton
+    
+##### Структурные шаблоны (Structural patterns)
+    1. Decorator
 
